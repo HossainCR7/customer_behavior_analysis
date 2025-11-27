@@ -101,7 +101,7 @@ The goal is to showcase practical skills in Python, SQL, BI tools, and storytell
 ### **1. Clone Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/HossainCR7/customer_behavior_analysis.git
 cd your-repo
 ```
 
